@@ -1,7 +1,7 @@
 name: All the Best
 favicon: null
-layout_spectrum: 0.5799019511323422
-typography_spectrum: 0.5586425543297082
+layout_spectrum: 0.67645
+typography_spectrum: 0.82324
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.181753616547212
+  brandStrength: 0.5625
   lightness: 0.22667046985588968
   saturation: 0.979013622738421
   rhythmicContrast: 0.40156791219487786
